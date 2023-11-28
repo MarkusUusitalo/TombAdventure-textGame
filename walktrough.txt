@@ -1,0 +1,46 @@
+Walkthrough
+Start at the Mystic Tomb Entrance (Outside):
+
+Enter command: go south
+This takes you to the Cryptic Foyer (Entrance).
+In the Cryptic Foyer (Entrance):
+
+Enter command: get torch
+You now have it in your inventory.
+Enter command: go east
+You are asked to use torch.
+
+Enter command: use torch
+Using the torch illuminates the area and is available now.
+Enter command: get knife
+You now have it in your inventory.
+Enter command: go west
+This takes you back to the Cryptic Foyer (Entrance).
+Back in the Cryptic Foyer (Entrance):
+
+Enter command: go west
+You are asked to use the knife.
+
+Enter command: use knife
+The knife clears the roots necessary to proceed.
+Enter command: go west
+This takes you to the Eternal Corridor (Middle of the Corridor).
+In the Eternal Corridor (Middle of the Corridor):
+
+Enter command: go west
+This takes you to the Crossroads of Fate (End of Corridor).
+In the Crossroads of Fate (End of Corridor):
+
+You have two choices here:
+Enter command: go south twice to reach the Hall of Shadows. In this case you need to use the torch on both times.
+Alternatively, enter command: go north twice to reach the Amulet Chamber.
+In the Hall of Shadows or Amulet Chamber:
+
+Enter command: get amulet
+The amulet is in either of these locations and is the main objective.
+Retrace Your Steps to Exit:
+
+Enter commands in sequence to return:
+go south (twice if in the Hall of Shadows)
+go east (three times to reach the Cryptic Foyer from the Crossroads of Fate)
+Finally, go north to exit the tomb from the Cryptic Foyer, arriving at the Mystic Tomb Entrance (Outside).
